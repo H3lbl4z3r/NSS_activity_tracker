@@ -21,7 +21,7 @@ admin dashboard template.
 
 ## Tech stack
 
-- Laravel 12 (PHP)
+- Laravel 13 (PHP)
 - SQLite (single-file database, no server setup needed)
 - Blade templates + Tailwind CSS
 - Alpine.js for interactive bits (modals, dropdowns)
